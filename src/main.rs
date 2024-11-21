@@ -4,8 +4,9 @@
 // mod palindromicsubstrings_647;
 // mod longestconsecutivesequence_128;
 mod coinchange_322;
+mod hamming_distance_461;
 
 fn main() {
     println!("Hello, world!");
-    coinchange_322::test();
+    hamming_distance_461::test();
 }
