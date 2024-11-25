@@ -7,6 +7,7 @@ pub fn test() {
     println!("r {:?}", find_disappeared_numbers(nums))
 }
 
+
 pub fn find_disappeared_numbers(nums: Vec<i32>) -> Vec<i32> {
     let len = nums.len();
     println!("{}", len);
