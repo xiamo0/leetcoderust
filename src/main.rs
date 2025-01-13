@@ -7,8 +7,10 @@
 // mod hamming_distance_461;
 // mod find_disappeared_numbers_448;
 mod find_all_anagrams_a_string_438;
+mod setZeroes;
+
 
 fn main() {
     println!("Hello, world!");
-    find_all_anagrams_a_string_438::test();
+    setZeroes::test();
 }
