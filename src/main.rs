@@ -6,11 +6,11 @@
 // mod coinchange_322;
 // mod hamming_distance_461;
 // mod find_disappeared_numbers_448;
-mod find_all_anagrams_a_string_438;
-mod setZeroes;
-
+// mod find_all_anagrams_a_string_438;
+// mod setZeroes;
+mod add_two_numbers;
 
 fn main() {
     println!("Hello, world!");
-    setZeroes::test();
+    add_two_numbers::test();
 }
