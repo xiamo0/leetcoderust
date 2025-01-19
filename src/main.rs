@@ -8,9 +8,10 @@
 // mod find_disappeared_numbers_448;
 // mod find_all_anagrams_a_string_438;
 // mod setZeroes;
-mod add_two_numbers;
+// mod add_two_numbers;
+mod remove_nth_from_end;
 
 fn main() {
     println!("Hello, world!");
-    add_two_numbers::test();
+    remove_nth_from_end::test();
 }
